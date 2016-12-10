@@ -1,9 +1,11 @@
 # adp-ca_service_desk
 Adds keyboard shortcuts to the CA Service Desk fields  most commonly used by ADP's Hosting Operations
 
-I created this while serving a Sept 1 - Oct 30 2016 contract while ADP moved operations from Ann Arbor, MI to Chicago, IL.
+I created this while serving a Sept 1st - Oct 30th,  2016 contract while ADP moved operations from Ann Arbor, MI to Chicago, IL.
 
+Instructions can be found at
 
+=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-
 
 Add Keyboard Shortcuts to CASD
 By Clayton G. Ousley
@@ -24,16 +26,16 @@ Run at: document-start;
 Run only in top frame: Default;
 
 Includes/Excludes: {
-  Original includes: <leave blank>
+  Original includes: leave blank
   Original Matches: servicedesk/*
 }
 
 
 5) Make sure the script is enabled by checking the icon in the menu bar again.
 
-=*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*=
+=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-=~-
 
-Your shortcuts are set! Your shortcut is “ALT” + <character that surrounds the label>
+Your shortcuts are set! Your shortcut is “ALT” + (character that surrounds the label)
 
 For example, in the case of the “Status” field, the shortcut is ‘ALT’ + ‘=’
 
